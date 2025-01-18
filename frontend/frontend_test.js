@@ -1,1 +1,1 @@
-console.log("frontend set up done")
+console.log("frontend set up done and merged")
